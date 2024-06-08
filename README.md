@@ -4,7 +4,7 @@ Numerical methods are a collection of techniques used to find approximate soluti
 ## Hey There!
 
 This is my full course on Numerical Methods exclusively on YouTube with notes.<br /> 
-Click Here to access Playlist: <a href="https://www.youtube.com/playlist?list=PL23dd-8zssJA0vFttl7D_SdBL_PRE7zrL"> <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fplay-youtube-video-media-playlist-vid%2F55213&psig=AOvVaw0ax1CzvtlrEkXe3jDqxStf&ust=1717934717054000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIChjNX7y4YDFQAAAAAdAAAAABAE" alt="start practicing"  height="40" width="140" /> </a>
+Click Here to access Playlist: <a href="https://www.youtube.com/playlist?list=PL23dd-8zssJA0vFttl7D_SdBL_PRE7zrL"> <img align="center" src="https://cdn.icon-icons.com/icons2/584/PNG/512/play_youtube_video_media_playlist_vid_icon-icons.com_55213.png" alt="start practicing"  height="40" width="140" /> </a>
 
 Whether you’re a student, a professional, or just someone passionate about mathematics and computational techniques, this course is designed to provide you with a comprehensive understanding of numerical methods. I will cover a wide range of topics including
 
