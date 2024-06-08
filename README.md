@@ -7,13 +7,13 @@ This is my full course on Numerical Methods exclusively on YouTube with notes.
 
 Whether you’re a student, a professional, or just someone passionate about mathematics and computational techniques, this course is designed to provide you with a comprehensive understanding of numerical methods. I will cover a wide range of topics including
 
-🔹 Error Analysis
-🔹 Root Finding Algorithms
-🔹 Interpolation and Polynomial Approximation
-🔹 Numerical Integration and Differentiation
-🔹 Solving Linear Systems
-🔹 Eigenvalues and Eigenvectors
-🔹 Ordinary Differential Equations
+🔹 Error Analysis<br /> 
+🔹 Root Finding Algorithms<br /> 
+🔹 Interpolation and Polynomial Approximation<br /> 
+🔹 Numerical Integration and Differentiation<br /> 
+🔹 Solving Linear Systems<br /> 
+🔹 Eigenvalues and Eigenvectors<br /> 
+🔹 Ordinary Differential Equations<br /> 
 🔹 And much more!
 
 This course will be structured to help you grasp both the theory and practical application of numerical methods, with plenty of examples, exercises, and real-world problem-solving techniques.
